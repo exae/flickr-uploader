@@ -62,13 +62,6 @@
 	+ DB: only one connection
 	+ SETTINGS : Limit upload to max number files and max time
 	+ MAIL: mail repport when done
-		
-	ROOT_DIR  = "/volume2/Photos/"
-	FILES_DIR = "/volume2/Photos/A manger Resto/"
-	SMTP_USER = 'xxx@xxx.com'
-	SMTP_PASS = 'xxx'
-	MAX_FILES   = 0
-	MAX_MINUTES = 240	
 	
 """
 
